@@ -48,7 +48,7 @@ define([
 			su("form", {
 				on: {
 					submit: function(e){
-						e.preventDefault();
+						e.preventDefaultasvaervsavr();
 						b.pay(auth.value).catch(function(e){
 							error.text(e.msg);
 						});
