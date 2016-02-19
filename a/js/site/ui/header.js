@@ -79,7 +79,7 @@ define([
 			{text: "Affiliated Groups", href: "/about/groups"},
 			{text: "Culture",           href: "/about/culture", sub: [
 				{text: "Traditions",  href: "/about/culture/traditions"},
-				{text: "Awards",  href: "/about/culture/awards"},
+				{text: "Awards",      href: "/about/culture/awards"},
 				{text: "Flightsuits", href: "/about/culture/flightsuits"},
 				{text: "The Gong",    href: "/about/culture/thegong"},
 				{text: "The Jacket",  href: "/about/culture/thejacket"},
