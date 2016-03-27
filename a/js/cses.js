@@ -566,13 +566,13 @@
 	});
 	
 	var calendars = [
-		"mmblktn9tkvj50r24fcp9ejk5o%40group.calendar.google.com",
-		"qph9lt0jmmn0r6valqfhj5rre0%40group.calendar.google.com",
-		"ae01kpkde21c21jrodpusba1vc%40group.calendar.google.com",
-		"sqejs0pqa5ln2qcs91tvk5jahg%40group.calendar.google.com",
+		"cses.carleton.ca_0jnk61jmu6obsvrpt9n799iigs%40group.calendar.google.com",
 		"cses.carleton.ca_hblpsl5hf42ra21op8t9loa90k%40group.calendar.google.com",
 		"cses.carleton.ca_vl3am7lojp63nq7d2knb9iotsc%40group.calendar.google.com",
-		"cses.carleton.ca_0jnk61jmu6obsvrpt9n799iigs%40group.calendar.google.com",
+		"events%40cses.carleton.ca",
+		"mmblktn9tkvj50r24fcp9ejk5o%40group.calendar.google.com",
+		"qph9lt0jmmn0r6valqfhj5rre0%40group.calendar.google.com",
+		"sqejs0pqa5ln2qcs91tvk5jahg%40group.calendar.google.com",
 	];
 	
 	function Event() { }
@@ -588,7 +588,7 @@
 					"&timeMin=" + new Date().toISOString() +
 					"&maxResults=" + number +
 					"&fields=items(description%2ChtmlLink%2Cstart%2Cend%2Csummary)" +
-					"&key=AIzaSyCoTrCEScDiR5PZYbfopk0vHE_YDPiiIYw";
+					"&key=AIzaSyBhQliDI9y9UbEuKwD0_J1IdmC_ID4fY5M";
 				
 				return Q.allSettled(
 					calendars.map(function(id){
