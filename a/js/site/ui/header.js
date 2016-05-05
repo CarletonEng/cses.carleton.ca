@@ -45,6 +45,7 @@ define([
 			{text: "Academic Concerns",             href: "/services/concerns"},
 			{text: "Alexander's Office",            href: "/services/office"},
 			{text: "Advertise Through Us",          href: "/services/advertise"},
+			{text: "Elsie Center",                  href: "/services/elsie"},
 			{text: "EngSwag",                       href: "/services/swag"},
 			{text: "Equipment Loan Program",        href: "/services/elp"},
 			{text: "Exam Library",                  href: "/services/examlibrary"},
