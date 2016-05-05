@@ -86,7 +86,7 @@ define([
 				{text: "Pewter Mugs", href: "/about/culture/pewtermugs"},
 			]},
 		]},
-		{text: "Governance", href: "/governance", sub: [
+		{text: "Governance", sub: [
 			{text: "Accountability",       href: "/governance/accountability"},
 			{text: "Documents and Forms",  href: "/governance/docs"},
 			{text: "Elections",            href: "/governance/elections"},
